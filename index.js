@@ -129,5 +129,6 @@ module.exports = {
   long : long,
   message : message,
   short : short,
-  tag : tag
+  tag : tag,
+  command : _command
 };
